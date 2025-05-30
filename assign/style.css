@@ -124,6 +124,7 @@ header {
 
 .bio-text p {
   font-size: 1rem;
+  font-family: "Merriweather", serif;
   margin: 8px 0;
   color: #444;
 }
@@ -198,6 +199,7 @@ h2{
 
 .section p {
   font-size: 1.1rem;
+   font-family: "Pacifico", cursive;
   line-height: 1.8;
   color: #333;
   margin-bottom: 30px;
