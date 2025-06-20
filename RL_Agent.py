@@ -63,4 +63,5 @@ while state != 4:
     print(f"Step {steps}: Move {actions[action]} → Position {state}")
 
 print(f"\nFinal path: {' → '.join(path)}")
-print(f"Goal reached in {steps} steps!")
+print(f"Goal has reached in {steps} steps!")
+#success
